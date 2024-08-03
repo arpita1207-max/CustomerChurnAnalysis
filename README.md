@@ -1,4 +1,5 @@
 ```#Customer Churn Analysis```
+
 This dashboard was created to visualize overall Customer Churn based on different parameters.
 I have created below KPIs to understand how many Customers have Exited,Retained, Active,Inactive,Credit Card holders.
 
@@ -34,7 +35,8 @@ Bussiness Insights:-
 1k Customers having Credit Card have Exited from the Bank.
 
 
-# Churn Percentage
+```# Churn Percentage```
+
 This dashboard was created to visualize overall Customer Churn based on yearly,quartely and monthly basis.
 
 
@@ -53,7 +55,8 @@ Business Insights:-
 3. Create a Line Chart to  monitor on daily basis no of Exit Customers.
 
 
-# Exit Customer Analysis
+```# Exit Customer Analysis```
+
 This dashboard was created to visualize weather high score credit ,high income and high  balance and old customers have exited the bank.
 
 High Credit Score Customers     704
